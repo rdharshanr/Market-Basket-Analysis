@@ -1,6 +1,6 @@
 # Market-Basket-Analysis
 **Market Basket analysis**
-*Market basket analysis serves as a strategic data mining technique employed by retailers to boost sales by gaining profound insights into customer purchasing behaviors. This method involves the meticulous examination of extensive datasets, including historical purchase records, to unveil inherent groupings of products and identify items frequently purchased together.
+-Market basket analysis serves as a strategic data mining technique employed by retailers to boost sales by gaining profound insights into customer purchasing behaviors. This method involves the meticulous examination of extensive datasets, including historical purchase records, to unveil inherent groupings of products and identify items frequently purchased together.
 *By discerning these patterns of co-occurrence, retailers can make well-informed decisions to optimize inventory management, devise targeted marketing strategies, implement effective cross-selling tactics, and even refine store layouts to enhance customer engagement.
 *For instance, understanding the likelihood of customers purchasing bread alongside milk during a supermarket visit allows retailers to tailor marketing efforts, strategically cross-sell related products, and plan shelf space for optimal product placement. This insightful analysis empowers retailers to make data-driven decisions, ultimately fostering increased sales and improved customer satisfaction.
 
